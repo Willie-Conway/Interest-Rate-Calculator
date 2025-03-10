@@ -89,7 +89,7 @@ We welcome contributions! If you'd like to improve or add features to this proje
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [https://github.com/Willie-Conway/Interest-Rate-Calculator/blob/main/LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Willie-Conway/Interest-Rate-Calculator/blob/main/LICENSE) file for details.
 
 ## Contact 📧
 
