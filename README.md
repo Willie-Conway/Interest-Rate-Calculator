@@ -81,7 +81,7 @@ This will push the contents of the `dist/` folder to the `gh-pages` branch, whic
 
 ## Screenshots 📸
 
-![Interest Rate Calculator Screenshot]([screenshot.png](https://github.com/Willie-Conway/Interest-Rate-Calculator/blob/59a3b530a5d7f6642a3e7ca518a1963c00639ae5/Screenshots/Interest%20Rate%20Calculator.png)
+![Interest Rate Calculator Screenshot](https://github.com/Willie-Conway/Interest-Rate-Calculator/blob/59a3b530a5d7f6642a3e7ca518a1963c00639ae5/Screenshots/Interest%20Rate%20Calculator.png)
 
 ## Contributing 🤝
 
