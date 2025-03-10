@@ -2,12 +2,18 @@
 <html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Quickly and accurately calculate interest rates on loans with our easy-to-use interest rate calculator. Determine the interest you'll pay and make informed financial decisions. Try our free online calculator now.">
+    <title>Interest Rate Calculator - Quickly Calculate Interest on Loans</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet" />
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href=<%=require('./style.css')%> type="text/css" media="all" />
 </head>
 
 <body>
     <div class="container">
-        Interest Rate Calculator
+        <h1>Interest Rate Calculator</h1>
         <div class="input-wrapper">
             <div class="wrapper">
                 <label for="principal">Principal Amount</label>
@@ -29,6 +35,9 @@
         <button id="calculate-btn" onclick="calculate()">Calculate</button>
         <div id="result"></div>
     </div>
+
+    <!-- Link to the JavaScript file, placed just before the closing </body> -->
+    <script src="script.js"></script>
 </body>
 
 </html>
