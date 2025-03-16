@@ -1,6 +1,8 @@
 
 # Interest Rate Calculator 💰📊
 
+ ![Interest Rate Calculator](https://github.com/Willie-Conway/Interest-Rate-Calculator/blob/be7dc1ec99939b7cc9f7956d6d120654aea005d4/Screenshots/Interest%20Rate%20Calculator.gif)
+
 A simple and user-friendly **Interest Rate Calculator** that allows you to quickly calculate interest on loans and make informed financial decisions. With this tool, you can easily determine the **simple interest** and **total amount payable** based on your loan's principal amount, interest rate, and time duration.
 
 ## Features 🚀
